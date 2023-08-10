@@ -226,6 +226,11 @@ button{
     margin: 0px;
     padding: 0px;
 }
+  .fa-solid{
+    margin-top: -20px;
+   position: absolute;
+   right:50px;
+}   
 }
 @media (max-width:1200px) and (min-width:600px){
 
